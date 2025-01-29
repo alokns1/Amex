@@ -1,0 +1,64 @@
+
+
+2024:
+
+
+Data reprocessing ORE - coordination with SRE and business teams, temp table
+Russian merchant canx - PSU, AIN activation, new findings, ukraninan identification
+
+
+MTEP - TSAM US refinement, MAPM, Amadeus, SFT, DBA, Nemo tech & business, PIV, Implementation planning,  ECR migration, MTMD Migration & Decomm - SOAP support & worldline coordination- Loren/Mohit
+Meta - vulnerability fixes, TCAI, uplifts 
+SRE issues
+GESR decomm
+
+Fusion - SEMIS L2 & ADR flow creation, estimates
+
+Transition plan
+Norway new report
+NTS analysis
+ASL Decomm
+SE Alias
+FPP new submitter Adyen
+
+
+Power Growth - Value Co-Creation, Foundational Technology, Best-in-Class Experience
+- MTEP - TSAM US refinement, MAPM, Amadeus, SFT, DBA, Nemo tech & business, PIV, Implementation planning,  ECR migration, MTMD Migration & Decomm - SOAP support & worldline coordination- Loren/Mohit
+- FPP new submitter Adyen
+- SE Alias
+- Norway new report- Fusion - SEMIS L2 & ADR flow creation, estimates
+
+Resiliency, Cybersecurity & Tech Risk
+- Data reprocessing ORE - coordination with SRE and business teams, temp table
+- Russian merchant canx - PSU, AIN activation, new findings, ukraninan identification
+- GESR decomm
+
+Efficiency & Productivity
+- NTS analysis
+- Meta - vulnerability fixes, TCAI, uplifts 
+
+People & Culture
+- MTEP
+- SRE issues
+
+Set the Agenda: Define What Winning Looks Like; Put Enterprise Thinking First; Lead with an External Perspective
+- Russian merchant canx - PSU, AIN activation, new findings, ukraninan identification
+- NTS analysis
+- Fusion - SEMIS L2 & ADR flow creation, estimates
+
+
+Bring Others with You: Build the Best Team; Seek and Provide Coaching & Feedback; Make Collaboration Essential 
+- MTEP - TSAM US refinement, MAPM, Amadeus, SFT, DBA, Nemo tech & business, PIV, Implementation planning,  ECR migration, MTMD Migration & Decomm - SOAP support & worldline coordination- Loren/Mohit
+- FPP new submitter Adyen
+- Norway new report
+
+Do It The Right Way: Communicate Frequently Candidly and Clearly;  Make Decisions Quickly & Effectively; Live the Blue Box Values; Demonstrate the Courage Great Leadership Demands
+
+- SEMIS Data reprocessing ORE
+- SRE issues
+- Transition plan
+
+
+Report name is incorrect
+Line numbering is incorrect
+Reporting period needs to match in header & details records
